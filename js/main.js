@@ -102,7 +102,7 @@
             );
         var t, i, s;
         tns({
-            container: "#about .testimonials-section .my-slider",
+            container: "#about",
             items: 2,
             gutter: 30,
             responsive: { 0: { items: 1, gutter: 0 }, 768: { items: 2, gutter: 30 } },
